@@ -1,3 +1,3 @@
-def introduction(ok)
+def introduction(name)
   
 end
